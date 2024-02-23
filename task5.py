@@ -1,5 +1,4 @@
-import calendar
-year=int (input("enter the year: "))
-month= int(input("enter the month: "))
-calendar1=calendar.month(year,month)
-print(calendar1)
+#!/usr/bin/python3
+import firelink
+firelink.firefox('facebook')
+
